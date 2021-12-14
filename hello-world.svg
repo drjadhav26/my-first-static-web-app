@@ -24,13 +24,11 @@ div.desc {
 }
 </style>
   
-<div class="gallery">
 
   <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" alt="Cinque Terre" width="600" height="400">
 
-  <div class="desc">Add a description of the image here</div>
-</div>
 
 
+   </div>
   </foreignObject>
 </svg>
